@@ -16,6 +16,8 @@ This project is an application used in the command-line to help create a profess
 Important things to install would be node and the inquirer package
 
 ## Usage
+https://drive.google.com/file/d/1auJ5FtjkZPMpmvaM5BbuXGXzY3GcxFdG/view
+
 The program is ran in the command-line, it asks the user a series of questions that will be collected and used to create a README file
 
 ## License
